@@ -10,7 +10,7 @@ Este proyecto es una aplicación web sencilla en Next.js que muestra consejos al
 
 ## Captura de Pantalla
 
-![Captura de Pantalla](readme/image.png) <!-- Puedes agregar una captura si deseas -->
+![Captura de Pantalla](./public/readme/image.png) <!-- Puedes agregar una captura si deseas -->
 
 ## Instalación
 
